@@ -1,7 +1,7 @@
 /******************************************************************************
- 2. Rule 02. Expressions (EXP)
- XP00-J. Do not ignore values returned by methods. 
- Correct the code as shown in theCompliant Solution below:
+4. Rule 04. Characters and Strings (STR)
+STR03-J. Do not encode noncharacter data as a string Given the non-compliant code
+below:
  ******************************************************************************/
 
 
