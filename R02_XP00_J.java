@@ -1,7 +1,7 @@
 /******************************************************************************
  2. Rule 02. Expressions (EXP)
- XP00-J. Do not ignore values returned by methods. Given the non-compliant code
- below:
+ XP00-J. Do not ignore values returned by methods. 
+ Given the non-compliant code below:
  ******************************************************************************/
 
 public void deleteFile(){
