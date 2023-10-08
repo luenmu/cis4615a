@@ -4,6 +4,9 @@ IDS04-J. Safely extract files from ZipInputStream
 Given the non-compliant code below:
  ******************************************************************************/
 
+static final int BUFFER = 512;
+// ...
+ 
 public final void unzip(String filename) throws java.io.IOException{
   FileInputStream fis = new FileInputStream(filename);
   ZipInputStream zis = new ZipInputStream(new BufferedInputStream(fis));
