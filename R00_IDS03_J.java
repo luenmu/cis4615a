@@ -1,6 +1,7 @@
 /******************************************************************************
  1. Rule 00. Input Validation and Data Sanitization (IDS)
-IDS03-J. Correct the code as shown in theCompliant Solution below:
+IDS03-J. Do not log unsanitized user input.
+Correct the code as shown in theCompliant Solution below:
  ******************************************************************************/
 
 if (loginSuccessful) {
