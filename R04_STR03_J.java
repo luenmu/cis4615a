@@ -1,7 +1,7 @@
 /******************************************************************************
 4. Rule 04. Characters and Strings (STR)
-STR03-J. Do not encode noncharacter data as a string Given the non-compliant code
-below:
+STR03-J. Do not encode noncharacter data as a string.
+Given the non-compliant code below:
  ******************************************************************************/
 
 
