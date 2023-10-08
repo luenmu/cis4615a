@@ -1,7 +1,7 @@
 /******************************************************************************
 3. Rule 03. Numeric Types and Operations (NUM)
 NUM07-J. Do not attempt comparisons with NaN
-Given the non-compliant code below:
+Correct the code as shown in theCompliant Solution below:
  ******************************************************************************/
 
 public class NaNComparison {
