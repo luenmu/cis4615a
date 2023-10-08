@@ -1,7 +1,7 @@
 /******************************************************************************
- 2. Rule 02. Expressions (EXP)
- XP00-J. Do not ignore values returned by methods. 
- Correct the code as shown in theCompliant Solution below:
+3. Rule 03. Numeric Types and Operations (NUM)
+NUM03-J. Use integer types that can fully represent the possible range of unsigned data
+Correct the code as shown in theCompliant Solution below:
  ******************************************************************************/
 
 
